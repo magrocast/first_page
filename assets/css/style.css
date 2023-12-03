@@ -10,10 +10,16 @@ body {
     height: 400px;
     text-shadow: 0 0px 40px green;
   }
-  #estudios .image-top {
+  #estudiosytrabajo .image-top {
     height: 250px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
   }
   
+  #experience .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
